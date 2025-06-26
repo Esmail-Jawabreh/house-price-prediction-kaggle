@@ -41,4 +41,4 @@ The data is located in the `/house-prices-advanced-regression-techniques/` folde
 
 ## 📊 Score
 
-📌 My best public leaderboard score: **10.55488 RMSLE**
+📌 My best public leaderboard score: **0.14447**
